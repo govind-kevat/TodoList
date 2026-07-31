@@ -34,8 +34,7 @@ TodoList/
 
 ## 📸 Screenshot
 
-![Todo List](screenshots/todo-list.png)
-
+![Todo List](Screenshot%202026-07-31%20234918.png)
 ---
 
 ## ▶️ How to Run
